@@ -13,6 +13,7 @@ tqdm
 openai
 gradio
 langchain
+langchain-schema
 langchain-core
 langchain-text-splitters
 langchain-openai
